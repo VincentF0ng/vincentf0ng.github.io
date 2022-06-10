@@ -1,0 +1,28 @@
+.container {
+  margin: 0 auto;
+  max-width: 400px;
+  padding-top: 40px;
+}
+.header {
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+.header img {
+  width: 100px;
+}
+.tag-item {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.option-wrap {
+  margin: 40px 0;
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (max-width: 750px) {
+  .el-message-box {
+    width: 60% !important;
+  }
+}

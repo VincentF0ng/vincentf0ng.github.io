@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>今天吃什么</title>
+    <!-- 导入样式 -->
+    <link rel="stylesheet" href="//unpkg.com/element-plus/dist/index.css" />
+    <!-- 导入 Vue 3 -->
+    <script src="//unpkg.com/vue@next"></script>
+    <!-- 导入组件库 -->
+    <script src="//unpkg.com/element-plus"></script>
+    <script src="//unpkg.com/@element-plus/icons-vue"></script>
+
+    <link rel="stylesheet" href="./index.css" />
+  </head>
+  <body>
+    <div id="app">
+      <div class="container">
+        <div class="header">
+          <img src="./header.gif" alt="吃货" />
+        </div>
+        <el-form :model="form" label-width="80px" @submit.native.prevent>
+          <el-form-item label="输入">
+            <el-input v-model="form.newItem" @keyup="handleKeyup" placeholder="回车或点击右侧按钮添加">
+              <template #append>
+                <el-button @click="handleAdd"> + </el-button>
+              </template>
+            </el-input>
+          </el-form-item>
+          <el-form-item label="收藏">
+            <el-tag
+              v-for="(item, i) in form.favs"
+              :key="item"
+              closable
+              class="tag-item"
+              size="large"
+              @close="handleDelItem(i)"
+            >
+              {{ item }}
+            </el-tag>
+          </el-form-item>
+        </el-form>
+        <div class="option-wrap">
+          <el-button type="primary" @click="handleRandom">今天吃什么</el-button>
+        </div>
+      </div>
+    </div>
+    <script src="./index.js"></script>
+  </body>
+</html>
