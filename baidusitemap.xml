@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vincef0ng.cn/post/es6-env/</loc>
-    <lastmod>2022-06-06</lastmod>
+    <loc>https://vincef0ng.cn/post/encapsulate-axios-with-ts/</loc>
+    <lastmod>2022-07-05</lastmod>
   </url>
   <url>
-    <loc>https://vincef0ng.cn/post/vue-scoped-deep-css/</loc>
+    <loc>https://vincef0ng.cn/post/es6-env/</loc>
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
@@ -13,7 +13,19 @@
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
+    <loc>https://vincef0ng.cn/post/vue-scoped-deep-css/</loc>
+    <lastmod>2022-06-06</lastmod>
+  </url>
+  <url>
+    <loc>https://vincef0ng.cn/post/iterm2-for-mac-tutorial/</loc>
+    <lastmod>2022-06-06</lastmod>
+  </url>
+  <url>
     <loc>https://vincef0ng.cn/post/git-github/</loc>
+    <lastmod>2022-06-06</lastmod>
+  </url>
+  <url>
+    <loc>https://vincef0ng.cn/post/http-finance/</loc>
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
@@ -25,15 +37,7 @@
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
-    <loc>https://vincef0ng.cn/post/iterm2-for-mac-tutorial/</loc>
-    <lastmod>2022-06-06</lastmod>
-  </url>
-  <url>
     <loc>https://vincef0ng.cn/post/javascript-sorting/</loc>
-    <lastmod>2022-06-06</lastmod>
-  </url>
-  <url>
-    <loc>https://vincef0ng.cn/post/http-finance/</loc>
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
