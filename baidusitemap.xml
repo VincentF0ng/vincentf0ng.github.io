@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://vincef0ng.cn/post/vue-dynamic-css-pseudo-element/</loc>
+    <lastmod>2022-08-23</lastmod>
+  </url>
+  <url>
     <loc>https://vincef0ng.cn/post/encapsulate-axios-with-ts/</loc>
     <lastmod>2022-07-05</lastmod>
   </url>
@@ -17,6 +21,10 @@
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
+    <loc>https://vincef0ng.cn/post/install-mongodb-on-os-x/</loc>
+    <lastmod>2022-06-06</lastmod>
+  </url>
+  <url>
     <loc>https://vincef0ng.cn/post/git-github/</loc>
     <lastmod>2022-06-06</lastmod>
   </url>
@@ -25,7 +33,7 @@
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
-    <loc>https://vincef0ng.cn/post/install-mongodb-on-os-x/</loc>
+    <loc>https://vincef0ng.cn/post/iterm2-for-mac-tutorial/</loc>
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
@@ -33,7 +41,7 @@
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
-    <loc>https://vincef0ng.cn/post/iterm2-for-mac-tutorial/</loc>
+    <loc>https://vincef0ng.cn/post/js-regexp-guide/</loc>
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
@@ -42,10 +50,6 @@
   </url>
   <url>
     <loc>https://vincef0ng.cn/post/less-tutorial/</loc>
-    <lastmod>2022-06-06</lastmod>
-  </url>
-  <url>
-    <loc>https://vincef0ng.cn/post/js-regexp-guide/</loc>
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
