@@ -3414,7 +3414,9 @@ img:hover {
   color: #fff;
   line-height: 36px;
   background: #49b1f5;
-  width: 80px;
+  width: 90px;
+  margin: 0 8px;
+  text-decoration: none;
 }
 .post-reward .reward-button:hover {
   background: #09629c;
@@ -3466,8 +3468,8 @@ img:hover {
   display: inline-block;
 }
 .post-reward .reward-button .reward-main .reward-all .reward-item img {
-  width: 130px;
-  max-width: 130px;
+  width: 200px;
+  max-width: 200px;
   border-radius: 3px;
   position: relative;
 }
