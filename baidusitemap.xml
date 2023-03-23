@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://vincef0ng.cn/post/git-commit-message-standard-and-commitizen/</loc>
+    <lastmod>2023-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://vincef0ng.cn/post/uniapp-h5-page-head/</loc>
     <lastmod>2023-03-22</lastmod>
   </url>
@@ -77,11 +81,11 @@
     <lastmod>2023-02-27</lastmod>
   </url>
   <url>
-    <loc>https://vincef0ng.cn/post/web-notification/</loc>
+    <loc>https://vincef0ng.cn/post/vue-scoped-deep-css/</loc>
     <lastmod>2023-02-27</lastmod>
   </url>
   <url>
-    <loc>https://vincef0ng.cn/post/vue-scoped-deep-css/</loc>
+    <loc>https://vincef0ng.cn/post/web-notification/</loc>
     <lastmod>2023-02-27</lastmod>
   </url>
   <url>

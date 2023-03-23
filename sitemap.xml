@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vincef0ng.cn/post/git-commit-message-standard-and-commitizen/</loc>
+    
+    <lastmod>2023-03-23T08:34:38.319Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://vincef0ng.cn/post/uniapp-h5-page-head/</loc>
     
     <lastmod>2023-03-22T15:54:13.445Z</lastmod>
@@ -23,14 +30,14 @@
   </url>
   
   <url>
-    <loc>https://vincef0ng.cn/categories/index.html</loc>
+    <loc>https://vincef0ng.cn/comments/index.html</loc>
     
     <lastmod>2023-02-27T08:16:40.301Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://vincef0ng.cn/comments/index.html</loc>
+    <loc>https://vincef0ng.cn/categories/index.html</loc>
     
     <lastmod>2023-02-27T08:16:40.301Z</lastmod>
     
@@ -163,14 +170,14 @@
   </url>
   
   <url>
-    <loc>https://vincef0ng.cn/post/web-notification/</loc>
+    <loc>https://vincef0ng.cn/post/vue-scoped-deep-css/</loc>
     
     <lastmod>2023-02-27T08:11:09.455Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://vincef0ng.cn/post/vue-scoped-deep-css/</loc>
+    <loc>https://vincef0ng.cn/post/web-notification/</loc>
     
     <lastmod>2023-02-27T08:11:09.455Z</lastmod>
     
