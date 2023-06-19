@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vincef0ng.cn/post/pinia-usage-and-diff-from-vuex/</loc>
+    
+    <lastmod>2023-06-19T08:58:54.858Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://vincef0ng.cn/post/node-email-notification-nodemailer/</loc>
     
     <lastmod>2023-04-02T09:50:54.034Z</lastmod>
@@ -93,14 +100,14 @@
   </url>
   
   <url>
-    <loc>https://vincef0ng.cn/post/http-finance/</loc>
+    <loc>https://vincef0ng.cn/post/install-mongodb-on-os-x/</loc>
     
     <lastmod>2023-02-27T08:11:09.759Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://vincef0ng.cn/post/install-mongodb-on-os-x/</loc>
+    <loc>https://vincef0ng.cn/post/http-finance/</loc>
     
     <lastmod>2023-02-27T08:11:09.759Z</lastmod>
     
@@ -128,13 +135,6 @@
   </url>
   
   <url>
-    <loc>https://vincef0ng.cn/post/iterm2-for-mac-tutorial/</loc>
-    
-    <lastmod>2023-02-27T08:11:09.737Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://vincef0ng.cn/post/js-regexp-guide/</loc>
     
     <lastmod>2023-02-27T08:11:09.737Z</lastmod>
@@ -142,14 +142,21 @@
   </url>
   
   <url>
-    <loc>https://vincef0ng.cn/post/es6-env/</loc>
+    <loc>https://vincef0ng.cn/post/iterm2-for-mac-tutorial/</loc>
+    
+    <lastmod>2023-02-27T08:11:09.737Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vincef0ng.cn/post/encapsulate-axios-with-ts/</loc>
     
     <lastmod>2023-02-27T08:11:09.455Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://vincef0ng.cn/post/encapsulate-axios-with-ts/</loc>
+    <loc>https://vincef0ng.cn/post/es6-env/</loc>
     
     <lastmod>2023-02-27T08:11:09.455Z</lastmod>
     
@@ -177,14 +184,14 @@
   </url>
   
   <url>
-    <loc>https://vincef0ng.cn/post/vuex/</loc>
+    <loc>https://vincef0ng.cn/post/vue-scoped-deep-css/</loc>
     
     <lastmod>2023-02-27T08:11:09.455Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://vincef0ng.cn/post/vue-scoped-deep-css/</loc>
+    <loc>https://vincef0ng.cn/post/vuex/</loc>
     
     <lastmod>2023-02-27T08:11:09.455Z</lastmod>
     
